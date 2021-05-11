@@ -1,0 +1,44 @@
+.header{
+    text-align: center;
+    padding: 20px;
+    background-color: orange;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+#pageHeading{
+    border: 0.2px solid black;
+    margin: 35px 490px;
+    color: black;
+}
+body{
+    background-color: gray;
+}
+.column1{
+    float: left;
+}
+canvas{
+    width: 75%;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+.column1{
+    width: 190px;
+    border: 3px solid black ;
+    text-align: center;
+}
+.node{
+    border: 2px solid black;
+    float: left;
+    height: 100px;
+    width: 2%;
+    margin-left: 2.5px;
+    padding: 9px;
+    margin-bottom: 150px;
+}
+.middle{
+    border: 2px solid black;
+    width: 84%;
+    margin-left: 10px;   
+    overflow: auto; 
+    resize: inherit;  
+}
